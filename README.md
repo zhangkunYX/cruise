@@ -21,7 +21,7 @@ npm run dev
 # To make a production build and build for back-end server`s front-resource
 npm run build
 
-It re-creates a folder named *public* on the root directory. This is where the production-ready front-end of the web application resides.
+It re-creates a folder named *dist* on the root directory. This is where the production-ready front-end of the web application resides.
 
 # For the back-end, Run the *main server*. server with json-server at localhost:5000
 npm run server
