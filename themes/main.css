@@ -1,0 +1,13 @@
+/*01-全局样式 sta*/
+body,td,th {font-size: 14px;color: #2d4054;outline: none;}
+body {margin: 0;padding: 0;background: #fff;}
+b,i{font-weight: normal;font-style: normal;}
+div,ul,li,form,p,h1,h2,dl,dt,dd {margin: 0;padding: 0;	list-style: none;font-weight: normal;font-size: 16px;}
+img {border: none;float: left;}
+input,textarea,button,select {outline:none;resize: none;border: none;padding: 0;}
+a:link,a:visited {font-size: 14px;color: #2d4054;text-decoration: none;outline: none;cursor: pointer;}
+a:hover {color: #00b4cf;text-decoration: underline;cursor: pointer;}
+a:active {color: #00b4cf;cursor: pointer;}
+* {	font-family: Avenir, Helvetica, Arial, sans-serif;}
+.cl {clear: both;width: 0;height: 0;}
+/*01-全局样式 end*/
